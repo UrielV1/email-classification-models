@@ -20,4 +20,4 @@ The goal of this project is to build a model which classifies emails as ham or s
 - The fastest model was Logistic regression with very good results: acc = 0.95, pre = 0.95, rec = 0.995
 - Using PCA method to reduce dimensionality we got very nice results and less overfitting problem
 
-### The most accurate model for this problem was RF, and the fastest was LogR
+#### The most accurate model for this problem was RF, and the fastest was LogR
