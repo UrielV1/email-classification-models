@@ -17,7 +17,8 @@ The goal of this project is to build a model which classifies emails as ham or s
 ## Conclusions
 - The highest scores were achieved for Random forest model with: acc = 0.976, pre = 0.972, rec = 1
 - The results got improved a bit using the resampling method, but computation time was increased
+- Models with high acc\pre but low rec are not relevant for this type of project
 - The fastest model was Logistic regression with very good results: acc = 0.95, pre = 0.95, rec = 0.995
 - Using PCA method to reduce dimensionality we got very nice results and less overfitting problem
 
-#### The most accurate model for this problem was RF, and the fastest was LogR
+#### The most accurate model for this dataset was RF, and the fastest was LogR
