@@ -1,5 +1,5 @@
 # email-classification-models
-<img src="https://github.com/UrielV1/email-classification-models/blob/master/ham_spam.jpg" alt="https://github.com/UrielV1/email-classification-models/blob/master/ham_spam" width="500"/>
+<img src="https://github.com/UrielV1/email-classification-models/blob/master/ham_spam.jpg" alt="https://github.com/UrielV1/email-classification-models/blob/master/ham_spam" width="400"/>
 
 ## Project objective
 The goal of this project is to build a model which classifies email as ham or spam
